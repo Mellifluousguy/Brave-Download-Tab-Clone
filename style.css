@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background: rgba(19, 19, 19, 0.938);
+}
+ul{
+    background-image: linear-gradient(to right,rgb(253, 113, 89), rgb(145, 3, 145));
+    text-align: center;
+}
+li{
+    text-decoration: none;
+    display: inline-block;
+    padding: 25px;
+
+}
+ul li:hover{
+    background-color: rgba(0, 0, 0, 0.1);
+}
